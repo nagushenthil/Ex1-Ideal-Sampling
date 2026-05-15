@@ -32,7 +32,7 @@ xr = resample(xs, len(t))
 plt.figure(figsize=(10, 8))
 
 plt.suptitle(
-    "NAME: VISHAL D\nREG NO: 212224060305",
+    "NAME: M.NAGU SHENTHIL \nREG NO: 212224060164",
     fontsize=12,
     fontweight='bold'
 )
@@ -100,7 +100,7 @@ rec = lfilter(b, a, nat)
 plt.figure(figsize=(10, 9))
 
 plt.suptitle(
-    "NAME: VISHAL D\nREG NO: 212224060305",
+    "NAME: M.NAGU SHENTHIL \nREG NO: 212224060164",
     fontsize=12,
     fontweight='bold'
 )
@@ -176,7 +176,7 @@ recon = lfilter(b, a, flat)
 plt.figure(figsize=(10, 9))
 
 plt.suptitle(
-    "NAME: VISHAL D\nREG NO: 212224060305",
+    "NAME: M.NAGU SHENTHIL \nREG NO: 212224060164",
     fontsize=12,
     fontweight='bold'
 )
@@ -219,15 +219,14 @@ plt.show()
 
 ## OUTPUT WAVEFORM:
 #### IDEAL SAMPLING:
-<img width="989" height="788" alt="image" src="https://github.com/user-attachments/assets/f6bdb3e0-af14-437b-974d-de9f1c4581b1" />
-
+<img width="1228" height="908" alt="image" src="https://github.com/user-attachments/assets/549f19f0-9956-4435-9c5d-02d76f910060" />
 
 #### NATURAL SAMPLING:
-<img width="981" height="886" alt="image" src="https://github.com/user-attachments/assets/7d1d6ead-908d-4343-aa0a-e7ab3ff4b3d6" />
+<img width="1051" height="856" alt="image" src="https://github.com/user-attachments/assets/74721f2e-3b37-4079-aaca-0e9b2d1e7750" />
 
 
 #### FLAT-TOP SAMPLING:
-<img width="981" height="886" alt="image" src="https://github.com/user-attachments/assets/44fda3ad-0369-436c-ae78-17ab28477fc7" />
+<img width="1051" height="852" alt="image" src="https://github.com/user-attachments/assets/2e931631-bff3-4aee-9f5d-191fc99d06f9" />
 
 
 ## RESULT:
